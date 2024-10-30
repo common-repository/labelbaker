@@ -1,0 +1,44 @@
+/* body {
+    overflow: hidden; 
+} */
+#wpcontent {
+    padding-left: 0px !important;
+}
+
+kbd {
+    background: none;
+}
+
+#default-search {
+    padding-left: 36px;
+    height: 40px;
+}
+
+.pl-8 {
+    padding-left: 20px;
+}
+
+.rounded-full {
+    border-radius: 9999px !important;
+}
+
+input[type="text"] > .pl-8 {
+    padding-left: 50px;
+}
+
+#wpfooter {
+    display: none;
+}
+
+.lb-header {
+    margin-bottom: 0px !important;
+}
+
+.label-baker-content {
+    background-image: linear-gradient(45deg, #c3c4c7 25%, transparent 25%, transparent 75%, #c3c4c7 75%, #c3c4c7),
+        linear-gradient(45deg, #c3c4c7 25%, transparent 25%, transparent 75%, #c3c4c7 75%, #c3c4c7);
+    background-position:
+        0 0,
+        10px 10px;
+    background-size: 20px 20px;
+}

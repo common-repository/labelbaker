@@ -1,0 +1,1 @@
+import{_ as e}from"./App.8a7f3b43.js";import{o,c}from"./index.d2b5948f.js";const r={},s={class:"w-full h-full"};function t(n,_){return o(),c("div",s," forms here ")}const l=e(r,[["render",t]]);export{l as default};
